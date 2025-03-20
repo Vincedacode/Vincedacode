@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi there, I'm Vincedacode 👋
 
-<!--
-**Vincedacode/Vincedacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+- 💻 Passionate software developer with a love for open-source projects.
+- 🌱 Currently learning about Java and SpringBoot.
+- 🎓 Certification in Software Engineering loading
+- 🌐 Always excited to collaborate on innovative projects and learn new technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+
+- **Languages:**  JavaScript, React-Native, Java, C#
+- **Frameworks/Libraries:** React, Node.js, Express, SpringBoot
+- **Tools:** Docker, Kubernetes, Git, 
+- **Databases:** MySQL, MongoDB
+
+
+
+## Get in Touch
+
+- 📧 Email: [toluwanipromise2005@gmail.com](mailto:toluwanipromise2005@gmail.com)
+- 💼 Portfolio: [Vincedacode](https://vincedacoders.vercel.app/))
+- 🐦 Twitter: [@Vincedacode](https://x.com/vincedacodes))
+
+## GitHub Stats
+
+![Vincedacode's GitHub stats](https://github-readme-stats.vercel.app/api?username=Vincedacode&show_icons=true&theme=radical)
+
+## Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Vincedacode&layout=compact&theme=radical)
